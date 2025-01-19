@@ -1,0 +1,12 @@
+names:
+- cardboard
+- cigarette_butts
+- glass
+- metal
+- paper
+- plastic
+- trash
+nc: 7
+path: /home/synodic/discordguyhelp/dataset_split
+train: train
+val: val
